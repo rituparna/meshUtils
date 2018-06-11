@@ -20,3 +20,4 @@ while not mItVert.isDone():
     mc.xform(loc,ws=True,t=(pos.x,pos.y,pos.z))
     locList.append(loc)
     mItVert.next()
+##checking git commands
